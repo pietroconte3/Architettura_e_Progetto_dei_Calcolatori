@@ -35,5 +35,4 @@ Fornire una soluzione smart home semplice ed efficace, che permetta di controlla
 - IDE: Arduino IDE + STM32CubeIDE
 
 Professore: Nicola Mazzocca  
-Referente: Antonio Emmanuele  
 Università Federico II – A.A. 2024-2025
